@@ -1,27 +1,29 @@
-pandownload.net,
-steampowered,
-manhuacat,
-esjzone,
-manhuagui,
-2dfan,
-syosetu,
-18comic,
-manhuagui,
-tianshie,
-exhentai,
-herokuapp,
-javdb,
-copymanga,
-06ak,
-laowang.vip,
-iwara.tv,
-hanime1.me,
-blog.reimu.net,
-hacgspiralabyss.org,
-pixiv,
-pximg,
-www.cheatengine.org,
-loverslab,
-cunhua,
-hacg,
-liuli
+payload:
+  - '+.265.com'
+  - '+.pandownload.net'
+  - '+.steampowered.+'
+  - '+.manhuacat.+'
+  - '+.esjzone.+'
+  - '+.manhuagui.+'
+  - '+.2dfan.+'
+  - '+.syosetu.+'
+  - '+.18comic.+'
+  - '+.manhuagui.+'
+  - '+.tianshie.+'
+  - '+.exhentai.+'
+  - '+.herokuapp.+'
+  - '+.javdb.+'
+  - '+.copymanga.+'
+  - '+.06ak.+'
+  - '+.laowang.vip.+'
+  - '+.iwara.tv.+'
+  - '+.hanime1.me.+'
+  - '+.blog.reimu.net'
+  - '+.hacgspiralabyss.org'
+  - '+.pixiv.+'
+  - '+.pximg.+'
+  - '+.www.cheatengine.org'
+  - '+.loverslab.+'
+  - '+.cunhua.+'
+  - '+.hacg.+'
+  - '+.liuli
