@@ -1,2 +1,2 @@
 payload:
-  - 'manhuagui.com'
+  - PROCESS-NAME,manhuagui'
