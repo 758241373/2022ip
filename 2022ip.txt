@@ -8,7 +8,7 @@ payload:
   - '+.2dfan'
   - '+.syosetu'
   - '+.18comic'
-  - '+.manhuagui'
+  - '+.manhuagui.+'
   - '+.tianshie'
   - '+.exhentai'
   - '+.herokuapp'
